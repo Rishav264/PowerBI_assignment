@@ -1,7 +1,37 @@
 # PowerBI_assignment
-Readme:
-Mention about the project's 
-1. Aim
-2. About the dataset
-3. PowerBI instructions - the steps
-4. Links of the screenshots https://drive.google.com/drive/folders/13qn0OEfyk_HfD4UV8r2cZA92LSxl0wT2?usp=drive_link
+## Customer Data Analysis
+
+### Objective:
+The objective of this project is to analyze customer data using Power BI and create insightful visualizations to understand key trends, patterns, and performance metrics.
+
+---
+
+### Dataset Overview:
+
+- *File Name:* customer.csv
+- *Description:* This dataset contains customer-related information, including demographics, purchase history, and other attributes relevant for business analysis.
+
+### Power BI Implementation:
+
+#### 1. Data Import
+- Imported customer.csv into Power BI.
+- Cleaned and transformed data using the Power Query Editor.
+
+#### 2. Data Transformation
+- Renamed columns for clarity.
+- Filtered rows to remove inconsistencies and missing values.
+- Changed data types for accurate analysis.
+
+#### 3. Data Visualization
+- Designed an interactive dashboard using various visualizations such as:
+	- Bar charts
+	- Pie charts
+- Utilized additional Power BI features to enhance interactivity and user experience.
+
+#### 4. Export and Documentation
+- Saved the Power BI report as a .pbix file with all reports and visualizations.
+- Captured screenshots of dashboards and stored them for reference.
+
+### Screenshots:
+Below is the link to the screenshots taken from the Power BI dashboard:  
+Links of the screenshots https://drive.google.com/drive/folders/13qn0OEfyk_HfD4UV8r2cZA92LSxl0wT2?usp=drive_link
